@@ -1,0 +1,8 @@
+{
+  "name": "libs",
+  "version": "1.0.0",
+  "description": "This repo is a library of multiple actions",
+  "main": "handler.js",
+  "scripts": {},
+  "license": "ISC"
+}
